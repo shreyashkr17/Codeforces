@@ -1,0 +1,1 @@
+{"name":"Local: 1593B","url":"c:\\Users\\USER\\Desktop\\codeforces\\1593B.cpp","tests":[{"id":1665242023109,"input":"5\n100\n71345\n3259\n50555\n2050047\n","output":"0\n3\n1\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\codeforces\\1593B.cpp","group":"local","local":true}
