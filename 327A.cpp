@@ -1,6 +1,5 @@
-//4057739   Jul 13, 2013 7:54:54 AM	fuwutu	 327A - Flipping Game	 GNU C++0x	Accepted	15 ms	0 KB
 #include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
