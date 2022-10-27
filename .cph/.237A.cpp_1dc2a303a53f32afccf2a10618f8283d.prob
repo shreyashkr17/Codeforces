@@ -1,0 +1,1 @@
+{"name":"Local: 237A","url":"c:\\Users\\USER\\Desktop\\codeforces\\237A.cpp","tests":[{"id":1666898573342,"input":"4\n8 0\n8 10\n8 10\n8 45\n","output":"2\n"},{"id":1666898851244,"input":"3\n0 12\n10 11\n22 22\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\codeforces\\237A.cpp","group":"local","local":true}
