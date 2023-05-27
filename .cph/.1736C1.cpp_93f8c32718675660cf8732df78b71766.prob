@@ -1,0 +1,1 @@
+{"name":"Local: 1736C1","url":"c:\\Users\\USER\\Desktop\\COMPETITIVE CODING\\codeforces\\1736C1.cpp","tests":[{"id":1685176890070,"input":"3\n3\n1 2 3\n3\n1 1 1\n4\n2 1 4 3\n","output":"6\n3\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\COMPETITIVE CODING\\codeforces\\1736C1.cpp","group":"local","local":true}

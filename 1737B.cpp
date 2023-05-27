@@ -24,11 +24,13 @@ void solve(){
     cin>>left>>right;
 
     ll leftRoot = sqrtNum(left),rightRoot = sqrtNum(right),ans;
+    // cout<<(leftRoot==rightRoot)<<endl;
 
     if(leftRoot == rightRoot){
         ans = 0;
         for(int i = 0;i<3;i++){
-            if(left < leftRoot*(leftRoot+i) && leftRoot*(leftRoot+i) <= right){
+            if(left <= leftRoot*(leftRoot+i) && leftRoot*(leftRoot+i) <= right){
+                // cout<<left<<" "<<leftRoot*(leftRoot+i)<<" "<<right<<endl;
                 ans++;
             }
         }
